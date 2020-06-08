@@ -1,0 +1,46 @@
+body{
+     margin:0px;         
+     padding:0px;         
+     text-align:center; 
+}
+.box{
+    background-color: bisque;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h1{
+    margin-bottom: 4%;
+    margin-top: 10%;
+}
+.th{
+    margin-bottom: 2%;
+}
+#send{
+    margin-bottom: 4%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.list_box{
+    background-color: rgb(187, 244, 245);
+    display: flex;
+    justify-content: center;
+    max-height: 300px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.list_box02{
+    /* border: solid; */
+    width: 50%;
+    overflow: scroll;
+    display: flex;
+    justify-content: center;
+}
+.list_box01{
+    /* border: solid; */
+    width: 50%;
+    overflow: scroll;
+    display: flex;
+    justify-content: center;
+}
